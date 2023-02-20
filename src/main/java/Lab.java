@@ -9,7 +9,7 @@ public class Lab {
      *
      * The method should return true if the login should be permitted, and false if it should not. You will need to use
      * if/else statements.
-     *
+     *a
      * @param username a String that represents a username.
      * @param password a String that represents a password.
      * @return true if there is a successful login, and false otherwise.
