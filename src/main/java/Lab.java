@@ -18,6 +18,9 @@ public class Lab {
         if(username.equals("admin") && password.equals("qwerty") ){
             return true;
         }
+        else if(username.equals("user") && password.equals("password") ){
+            return true;
+        }
         return false;
     }
 }
